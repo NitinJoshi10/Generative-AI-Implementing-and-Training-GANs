@@ -6,6 +6,14 @@ The dataset is prepared by downloading and preprocessing Pokémon images, includ
 
 The training process involves alternating between training the discriminator to distinguish between real and fake images and training the generator to generate more realistic images to fool the discriminator. The training progress is visualized through loss and score plots, as well as generated image samples.
 
+# Introduction
+
+Generative Adversarial Networks (GANs) offer a unique approach to generative modeling, characterized by a competitive interplay between two neural networks: the generator and the discriminator. This diagram illustrates the fundamental concept of GANs:
+
+![Generative Adversarial Network](https://i.imgur.com/6NMdO9u.png)
+
+In this setup, the generator aims to produce synthetic data samples that are indistinguishable from genuine data, while the discriminator's objective is to accurately distinguish between real and fake data. Through an adversarial training process, both networks iteratively improve, leading to the generation of high-quality synthetic data.
+
 
 # DataSet URL: 
 
