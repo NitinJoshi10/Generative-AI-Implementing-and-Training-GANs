@@ -32,6 +32,6 @@ Images of all Pokemon from generation 1 to generation 7, along with their types 
 
 ### Acknowledgements
 
-Data scrapped from https://pokemondb.net/pokedex/national & most of the learning done from Jovian.com 
+Data scrapped from https://pokemondb.net/pokedex/national & most of the learning done from https://jovian.com/
 
 
