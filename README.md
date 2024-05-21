@@ -11,4 +11,19 @@ The training process involves alternating between training the discriminator to 
 
 https://www.kaggle.com/datasets/vishalsubbiah/pokemon-images-and-types
 
+## About Dataset
+
+Images of all Pokemon from generation 1 to generation 7, along with their types (primary and secondary) as a csv.
+
+### Inspiration
+New evolution forms from two different Pokemon. (Create new Pokemon). Predict Pokemon primary and secondary types from the images. Identify what types the evolution form will have based on the pre-evolved forms. Eg. from Pichu and Pikachu predict for Raichu.
+
+### Future work/Ideas:
+
+Merge with other information such as moves, generation, strong/weak against etc, and use the images to classify.
+
+### Acknowledgements
+
+Data scrapped from https://pokemondb.net/pokedex/national
+
 
