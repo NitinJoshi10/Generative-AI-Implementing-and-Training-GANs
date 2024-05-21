@@ -14,6 +14,13 @@ Generative Adversarial Networks (GANs) offer a unique approach to generative mod
 
 In this setup, the generator aims to produce synthetic data samples that are indistinguishable from genuine data, while the discriminator's objective is to accurately distinguish between real and fake data. Through an adversarial training process, both networks iteratively improve, leading to the generation of high-quality synthetic data.
 
+# Example
+
+Explore the intriguing capabilities of generative models by visiting [thispersondoesnotexist.com](https://thispersondoesnotexist.com). With each page reload, a novel image of a person's face is dynamically generated. The outcomes are captivating, showcasing the remarkable potential of generative models to produce realistic and diverse images.
+
+![Generated Faces](https://imgix.bustle.com/inverse/4b/17/8f/0e/cf91/4506/99c7/e6a491c5d4ac/these-people-are-not-real--they-were-produced-by-our-generator-that-allows-control-over-different-a.png)
+
+
 
 # DataSet URL: 
 
