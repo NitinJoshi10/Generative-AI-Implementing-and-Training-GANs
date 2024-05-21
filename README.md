@@ -3,3 +3,9 @@ This repository demonstrates the implementation of Generative Adversarial Networ
 The dataset is prepared by downloading and preprocessing Pokémon images, including resizing, center cropping, converting to tensors, and normalization. The generator and discriminator models are then defined using convolutional and transpose convolutional layers, respectively.
 
 The training process involves alternating between training the discriminator to distinguish between real and fake images and training the generator to generate more realistic images to fool the discriminator. The training progress is visualized through loss and score plots, as well as generated image samples.
+
+
+#DataSet URL: 
+https://www.kaggle.com/datasets/vishalsubbiah/pokemon-images-and-types
+
+
