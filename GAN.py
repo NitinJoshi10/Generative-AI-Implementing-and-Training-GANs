@@ -1,7 +1,3 @@
-## Setup
-Install Required Packages: The code begins by installing the `opendatasets` package using pip to facilitate dataset downloading.
-"""
-
 !pip install opendatasets --upgrade --quiet
 
 import opendatasets as od
